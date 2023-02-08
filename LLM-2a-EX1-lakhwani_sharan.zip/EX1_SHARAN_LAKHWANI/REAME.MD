@@ -1,0 +1,1 @@
+This is a simple project that replaces vowels in a password with random numbers and @. It also adds random capital letters to the end of the insecure password if it is less than 8 characters.
